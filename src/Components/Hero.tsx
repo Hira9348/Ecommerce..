@@ -1,14 +1,14 @@
+
 import Image from "next/image";
 import HeroImage from "../Pictures/Hero.png";
 export default function Hero() {
   return (
     <>
-    
+      
       <div className="heroImage">
         <Image
-        
           src={HeroImage}
-          width={1400}
+          width={1440}
           height={100}
           alt="Picture of the author"
         />
