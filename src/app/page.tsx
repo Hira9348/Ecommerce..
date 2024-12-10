@@ -10,7 +10,7 @@ export default function Home(){
     {/* <Header/> */}
     <Hero/>
     <SubHero/>
-    <Products/>
+    <Products/> 
     {/* <Footer/> */}
     </>
   )
